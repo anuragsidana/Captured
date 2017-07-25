@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\gson-2.7_c92a96ab678a32c67d73bfb899e18dfa09130459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_8a1ae4dc892492f16b22a81fbc226665f7502fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_90b85374632488912c18e17e6cf3eb2101027ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\okio-1.9.0_4d811776441821f7ce685169597eda22f2de4075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_09a960850d888c1b893abb849547bd2a9e16ed2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_e5c717faaae53ff5dcb7f463765ab3bad53bc9ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_16499c3c54ab54de4970c94788d0d97bb54dc8e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_e9caced7589819507bbd19c5942d4b4beee25739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_d71acbf1695cc3ec75f985ffbafa26da1819e3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_e718e17cb54381891f5698e1a5dd39cfac93a529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_671c50bd96334683f4aa55ce1d1488ced9fda7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_f4286b4c61c825abcd7980c58a8553a5c79f7d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_c1fcb29c0bc6d5e86dbc9eb3f6a2cf2aee44f07f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag\.gradle\caches\modules-2\files-2.1\com.clarifai.clarifai-api2\core\2.2.6\17872f1b2812036933164a0da4e36c11047e0b1b\core-2.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17872f1b2812036933164a0da4e36c11047e0b1b">
+        <dex dex="E:\tutorials\AndroidStudioProjects\PhotoClick\app\build\intermediates\pre-dexed\debug\core-2.2.6_bd9490b4428fd354d95f75eab31ed880764421e3.jar" />
+    </item>
+
+</items>
