@@ -214,7 +214,7 @@ public class CameraView extends Activity implements SurfaceHolder.Callback, View
 
         OkHttpClient okHttpClient = builder.build();
 
-        ClarifaiClient client = new ClarifaiBuilder("x1bRafUEDcuUUF-pRgQZUtAXbdbH-_Tp1M43z-r7", "vjmVFuBlGuCk5WVHVCNTZ0eDbfRejgppSqZiltGQ")
+        ClarifaiClient client = new ClarifaiBuilder("APIKEY1", "APIKEY2")
                 .client(okHttpClient) // OPTIONAL. Allows customization of OkHttp by the user
 
                 .buildSync();
